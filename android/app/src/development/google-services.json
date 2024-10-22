@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "537656913153",
+    "project_id": "nn-uat",
+    "storage_bucket": "nn-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537656913153:android:0b3e25dab396ca8e897f00",
+        "android_client_info": {
+          "package_name": "com.insee.NNCustomer"
+        }
+      },
+      "oauth_client": [
+
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHL6dqsCbBDL9IS0ageCVu4GymygFNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

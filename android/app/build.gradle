@@ -1,0 +1,129 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+apply plugin: 'com.android.application'
+// START: FlutterFire Configuration
+apply plugin: 'com.google.gms.google-services'
+// END: FlutterFire Configuration
+apply plugin: 'kotlin-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    namespace "com.insee.NNCustomer"
+    compileSdkVersion flutter.compileSdkVersion
+    ndkVersion flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "com.insee.NNCustomer"
+        // You can update the following values to match your application needs.
+        // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
+        minSdkVersion 21
+        targetSdkVersion flutter.targetSdkVersion
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+
+    signingConfigs {
+        development {
+            storeFile file("keystore/development/keystore.jks");
+            storePassword("InseeNNCustomer@2023");
+            keyAlias "InseeNNCustomer";
+            keyPassword "InseeNNCustomer@2023";
+        }
+        production {
+            storeFile file("keystore/production/keystore.jks");
+            storePassword("InseeNNCustomer@2023");
+            keyAlias "InseeNNCustomerPRODUCTION";
+            keyPassword "InseeNNCustomer@2023";
+        }
+        uat {
+            storeFile file("keystore/uat/keystore.jks");
+            storePassword("InseeNNCustomer@2023");
+            keyAlias "InseeNNCustomerUAT";
+            keyPassword "InseeNNCustomer@2023";
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig null
+        }
+        release {
+//            minifyEnabled false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    flavorDimensions "default"
+
+    productFlavors {
+        development {
+            dimension "default"
+            signingConfig signingConfigs.development
+            resValue "string", "facebook_app_id", "661010282506859"
+            resValue "string", "facebook_client_token", "b1c9224d6795c27b647e74b2ce8d1559"
+            resValue "string", "geo_api_key", "AIzaSyAyEyqCX_8tt8O8r8FHYyYT3Sz2J6s2lYQ"
+
+        }
+        production {
+            dimension "default"
+            signingConfig signingConfigs.production
+            resValue "string", "facebook_app_id", "908710880513360"
+            resValue "string", "facebook_client_token", "5dbea6dfd803606d20ce5bc98009381b"
+            resValue "string", "geo_api_key", "AIzaSyCY8fS_8IebBLOnEnXI80h6x_rKgZKmkg0"
+        }
+        uat {
+            dimension "default"
+            signingConfig signingConfigs.uat
+            resValue "string", "facebook_app_id", "661010282506859"
+            resValue "string", "facebook_client_token", "b1c9224d6795c27b647e74b2ce8d1559"
+            resValue "string", "geo_api_key", "AIzaSyAyEyqCX_8tt8O8r8FHYyYT3Sz2J6s2lYQ"
+        }
+    }
+
+    buildToolsVersion '33.0.2'
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation 'com.google.gms:google-services:4.4.1'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.google.firebase:firebase-messaging:20.1.0'
+}

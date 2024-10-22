@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "537656913153",
+    "project_id": "nn-uat",
+    "storage_bucket": "nn-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537656913153:android:76e4fd84ee1c24a1897f00",
+        "android_client_info": {
+          "package_name": "com.insee.NNBuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHL6dqsCbBDL9IS0ageCVu4GymygFNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537656913153-fnsor036v7kq2gdgc2fveqamerrga8je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537656913153:android:0b3e25dab396ca8e897f00",
+        "android_client_info": {
+          "package_name": "com.insee.NNCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537656913153-jagimpfria80b9pqirdlolb50t1ormlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insee.NNCustomer",
+            "certificate_hash": "fe946ae01c4a4e85cea0d2ff9f284f7f439081ba"
+          }
+        },
+        {
+          "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHL6dqsCbBDL9IS0ageCVu4GymygFNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537656913153-fnsor036v7kq2gdgc2fveqamerrga8je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537656913153:android:cc569738d18ad6be897f00",
+        "android_client_info": {
+          "package_name": "com.insee.NNHardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHL6dqsCbBDL9IS0ageCVu4GymygFNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537656913153-fnsor036v7kq2gdgc2fveqamerrga8je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNBuilder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537656913153:android:c816d75c14ce7481897f00",
+        "android_client_info": {
+          "package_name": "com.insee.NNHardwareOwner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHL6dqsCbBDL9IS0ageCVu4GymygFNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537656913153-4oq2cd0mfjdk2r4jser3cpblfad6isop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537656913153-fnsor036v7kq2gdgc2fveqamerrga8je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNBuilder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

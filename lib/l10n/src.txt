@@ -1,0 +1,1398 @@
+NN-001
+Label
+Welcome!
+සාදරයෙන් පිළිගනිමු!
+நல்வரவு!
+
+NN-002
+Label
+Enter your credentials to login
+පිවිසුම් වීමට ඔබගේ අක්තපත්‍ර ඇතුලත් කරන්න
+உள்நுழைய உங்கள் விபரங்களை உள்ளிடவும்
+
+NN-003
+Label
+Email Address
+ඊමේල් ලිපිනය
+மின்னஞ்சல் முகவரி
+
+NN-004
+Label
+Password
+මුරපදය
+கடவுச்சொல்
+
+NN-005
+Button
+Login
+පිවිසුම
+உள்நுழையவும்
+
+NN-006
+Message
+Invalid username or password
+වලංගු නොවන පරිශීලක නාමය හෝ මුරපදය
+தவறான பயனர்பெயர் அல்லது கடவுச்சொல்
+
+NN-007
+Button
+Forgot Password?
+මුරපදය අමතකද?
+கடவுச்சொல்லை மறந்துவிட்டீர்களா?
+
+NN-008
+Label
+Don’t have an account?
+ගිණුමක් නැද්ද?
+கணக்கொன்று இல்லையா?
+
+NN-009
+Button
+Register
+ලේඛනය
+பதிவுசெய்க
+
+NN-010
+Label
+Forgot your password?
+ඔබගේ මුරපදය අමතකද?
+உங்கள் கடவுச்சொல்லை மறந்து விட்டீர்களா?
+
+NN-011
+Label
+Select a method that you like to receive the OTP
+ඔබ OTP ලැබීමට කැමති ක්‍රමයක් තෝරන්න
+நீங்கள் OTP ஐ பெற விரும்பும் முறையைத் தேர்ந்தெடுக்கவும்
+
+NN-012
+Other
+Select
+තේරීම
+தேர்ந்தெடுக்கவும்
+
+NN-013
+Button
+Submit
+ඉදිරිපත් කරන්න
+சமர்ப்பிக்கவும்
+
+NN-014
+Label
+Enter your registered mobile number to get OTP to Reset your Password
+ඔබගේ මුරපදය නැවත සැකසීමට OTP ලබා ගැනීමට ඔබගේ ලියාපදිංචි ජංගම දුරකථන අංකය ඇතුලත් කරන්න
+உங்கள் கடவுச்சொல்லை மீட்டமைக்க OTP ஐப் பெற உங்கள் பதிவு செய்யப்பட்ட மொபைல் இலக்கத்தை உள்ளிடவும்
+
+NN-015
+Label
+Mobile Number
+ජංගම දුරකථන අංකය
+மொபைல் இலக்கம்
+
+NN-016
+Button
+Send OTP
+OTP යවන්න
+OTP ஐ அனுப்பவும்
+
+NN-017
+Message
+Invalid phone number
+වලංගු නොවන දුරකථන අංකයකි
+தவறான தொலைபேசி இலக்கம்
+
+NN-018
+Label
+Reset your Password
+ඔබගේ මුරපදය යළි පිහිටුවන්න
+உங்கள் கடவுச்சொல்லை மீட்டமைக்கவும்
+
+NN-019
+Label
+Enter a new password
+නව මුරපදයක් ඇතුළත් කරන්න
+புதிய கடவுச்சொல்லை உள்ளிடவும்
+
+NN-020
+Label
+Re-enter the new password
+නව මුරපදය නැවත ඇතුල් කරන්න
+புதிய கடவுச்சொல்லை மீண்டும் உள்ளிடவும்
+
+NN-021
+Message
+Your password does not meet the required guidelines. Please try again.
+ඔබගේ මුරපදය අවශ්‍ය මාර්ගෝපදේශ සපුරාලන්නේ නැත. කරුණාකර නැවත උත්සාහ කරන්න.
+உங்கள் கடவுச்சொல் தேவையான வழிகாட்டுதல்களை பூர்த்தி செய்யவில்லை. தயவு செய்து மீண்டும் முயற்சிக்கவும்.
+
+NN-022
+Button
+OK
+හරි
+சரி
+
+NN-023
+Message
+Password Reset Successful
+මුරපදය යළි පිහිටුවීම සාර්ථකයි
+கடவுச்சொல் மீட்டமைப்பு வெற்றிகரமாக இடம்பெற்றுள்ளது
+
+NN-024
+Label
+Your password is successfully reset. Click OK button below to go back to Login page.
+ඔබගේ මුරපදය සාර්ථකව යළි සකසා ඇත. පහත OK බොත්තම ක්ලික් කරන්න
+உங்கள் கடவுச்சொல் வெற்றிகரமாக மீட்டமைக்கப்பட்டுள்ளது. உள்நுழைவு பக்கத்திற்குச் செல்ல, கீழே உள்ள சரி என்ற பொத்தானைக் கிளிக் செய்யவும்
+
+NN-025
+Label
+Register with Nawa Niwasa. Enter your credentials to register
+ලියාපදිංචි වීමට ඔබේ අක්තපත්‍ර ඇතුළත් කරන්න
+நவ நிவசவில் பதிவு செய்யுங்கள். பதிவு செய்ய உங்கள் விபரங்களை உள்ளிடவும்
+
+NN-026
+Label
+First Name
+මුල් නම
+முதற் பெயர்
+
+NN-027
+Label
+Last Name
+අවසන් නම
+கடைசி பெயர்
+
+NN-028
+Label
+Add a location
+ස්ථානයක් එක් කරන්න
+இடத்தைச் சேர்க்கவும்
+
+NN-029
+Label
+Language
+භාෂාව
+மொழி
+
+NN-030
+Button
+Register with Facebook
+බොත්තම ලියාපදිංචි කරන්න
+முகநூலுடன் பதிவு செய்யுங்கள்
+
+NN-031
+Button
+Register with Google Google
+සමඟ ලියාපදිංචි කරන්න
+கூகுளுடன் பதிவு செய்யுங்கள்
+
+NN-032
+Button
+Register
+ලියාපදිංචි වීම
+பதிவு செய்யுங்கள்
+
+NN-033
+Message
+Invalid name
+වලංගු නොවන නමකි
+தவறான பெயர்
+
+NN-034
+Message
+Invalid email
+වලංගු නොවන ඊමේල්
+தவறான மின்னஞ்சல்
+
+NN-035
+Message
+Invalid phone number
+වලංගු නොවන දුරකථන අංකයකි
+தவறான தொலைபேசி இலக்கம்
+
+NN-036
+Message
+Please fill out this field
+කරුණාකර මෙම ක්ෂේත්‍රය පුරවන්න
+இந்த இடத்தை நிரப்பவும்
+
+NN-037
+Message
+Length must be less than or equal to 20 characters long
+දිග අක්ෂර 20 ට වඩා අඩු හෝ සමාන විය යුතුය
+நீளம் 20 எழுத்துகளுக்கு குறைவாகவோ அல்லது அதற்கு சமமாகவோ இருக்க வேண்டும்
+
+NN-038
+Message
+Account created successfully
+ගිණුම සාර්ථකව සාදන ලදී
+கணக்கு வெற்றிகரமாக உருவாக்கப்பட்டுள்ளது
+
+NN-039
+Label
+Your Account is successfully created. Click OK button below to go back to Login page.
+ඔබේ ගිණුම සාර්ථකව නිර්මාණය කර ඇත. පහත OK බොත්තම ක්ලික් කරන්න
+உங்கள் கணக்கு வெற்றிகரமாக உருவாக்கப்பட்டுள்ளது. உள்நுழைவு பக்கத்திற்குச் செல்ல, கீழே உள்ள சரி பொத்தானைக் கிளிக் செய்யவும்
+
+NN-040
+Label
+Need support?
+සහාය අවශ්‍යද?
+உதவி தேவையா?
+
+NN-041
+Button
+Click here
+මෙතන ක්ලික් කරන්න
+இங்கே கிளிக் செய்யவும்
+
+NN-042
+Button
+Search Builder
+ඉදිකිරීම් කරුවන් සෙවීම
+நிர்மாணிப்பாளரைத் தேடவும்
+
+NN-043
+Button
+BOQ
+BOQ
+அளவைப்பட்டியல்
+
+NN-044
+Button
+Complaints
+පැමිණිලි
+முறைப்பாடுகள்
+
+NN-045
+Button
+Technical Assistance
+තාක්ෂණික සහාය
+தொழில்நுட்ப உதவி
+
+NN-046
+Label
+Products
+නිෂ්පාදන
+தயாரிப்புகள்
+
+NN-047
+Label
+Builders
+ඉදිකිරීම් කරුවන්
+நிர்மாணிப்பாளர்கள்
+
+NN-048
+Label
+A builder is a skilled professional in the construction industry who specialises in creating structures and buildings A builder
+යනු ව්‍යුහයන් සහ ගොඩනැගිලි නිර්මාණය කිරීමට විශේෂඥයෙකු
+நிர்மாணிப்பாளர் என்பவர் கட்டுமானத் துறையில் நிபுணத்துவம் வாய்ந்த நிபுணராகும், அவர் கட்டமைப்புகள் மற்றும் கட்டிடங்களை உருவாக்குவதில் நிபுணத்துவம் பெற்றவர்
+
+NN-049
+Label
+Explore
+ගවේෂණය
+ஆராயுங்கள்
+
+NN-050
+Button
+About Us
+අප ගැන
+எங்களைப் பற்றி
+
+NN-051
+Button
+Privacy Policy
+රහස්‍යතා ප්‍රතිපත්තිය
+தனியுரிமைக் கொள்கை
+
+NN-052
+Button
+Return Policy
+ප්‍රතිලාභ ප්‍රතිපත්තිය
+மீள்திருப்பல் கொள்கை
+
+NN-053
+Button
+Terms and Conditions
+නියම සහ කොන්දේසි
+விதிமுறைகள் மற்றும் நிபந்தனைகள்
+
+NN-054
+Label
+Need Help?
+උදවු අවශ්‍යද?
+உதவி தேவையா?
+
+NN-055
+Button
+Contact Us
+අප අමතන්න
+எங்களை தொடர்பு கொள்ளுங்கள்
+
+NN-056
+Button
+Calculators
+ගණක යන්ත්‍ර
+கணிப்பான் பொறிகள்
+
+NN-057
+Label
+Level 25, Access Tower II, 278/4, Union Place, Colombo 05
+25 වන මහල, Access කුළුණ II, 278/4, යුනියන් පෙදෙස, කොළඹ 05
+25 வது மாடி, அக்சஸ் டவர் II, 278/4, யூனியன் பிளேஸ், கொழும்பு 05
+
+NN-058
+Button
+Find an Outlet
+අලෙවිසැලක් සොයන්න
+விற்பனை மையமொன்றைக் கண்டறியுங்கள்
+
+NN-059
+Label
+Download our App
+අපගේ යෙදුම බාගත කරගන්න
+எங்கள் செயலியைப் பதிவிறக்கவும்
+
+NN-060
+Button
+Support and Complaints
+සහාය සහ පැමිණිලි
+உதவி மற்றும் முறைப்பாடுகள்
+
+NN-061
+Button
+Store E
+වෙළඳසැල
+விற்பனை நிலையம்
+
+NN-062
+Button
+My Jobs
+මගේ රැකියා
+எனது பணிகள்
+
+NN-063
+Button
+My Messages
+මගේ පණිවිඩ
+எனது செய்திகள்
+
+NN-064
+Button
+Profile
+ගිණුම
+சுயவிவரம்
+
+NN-065
+Button
+Logout
+බොත්තම පිටවීම
+வெளியேறுங்கள்
+
+NN-066
+Other
+Search Builders...
+ඉදිකිරීම් කරුවන් සෙවීම
+நிர்மாணிப்பாளர்களைக் கண்டறியவும்...
+
+NN-067
+Button
+All
+සියල්ල
+அனைத்தும்
+
+NN-068
+Label
+Builder Skills:
+ගොඩනැගීමේ කුසලතා:
+நிர்மாணிப்பாளரின் திறன்கள்:
+
+NN-069
+Button
+Post a Job
+රැකියාවක් පළ කරන්න
+ஒரு பணியை இடுகையிடவும்
+
+NN-070
+Label
+Create New Job
+නව රැකියාවක් සාදන්න
+புதிய பணியை உருவாக்குங்கள்
+
+NN-071
+Label
+Job Title
+රැකියා මාතෘකාව
+பணியின் தலைப்பு
+
+NN-072
+Label
+Type of Repair
+අලුත්වැඩියා කිරීමේ වර්ගය
+திருத்த வேலையின் வகை
+
+NN-073
+Label
+Location
+ස්ථානය
+இடம்
+
+NN-074
+Label
+Enter the job description
+රැකියා විස්තරය ඇතුළත් කරන්න
+பணி விளக்கத்தை உள்ளிடவும்
+
+NN-075
+Label
+Add an image
+රූපයක් එක් කරන්න
+படத்தைச் சேர்க்கவும்
+
+NN-076
+Label
+Click to upload images
+පින්තූර උඩුගත කිරීමට ක්ලික් කරන්න
+படங்களை பதிவேற்ற கிளிக் செய்யவும்
+
+NN-077
+Button
+Upload
+උඩුගත කිරීම
+பதிவேற்றவும்
+
+NN-078
+Button
+Post
+පළ කරන්න
+பதிவிடவும்
+
+NN-079
+Message
+Job successfully created
+කාර්ය සාර්ථකව නිර්මාණය කරන ලදී
+பணி வெற்றிகரமாக உருவாக்கப்பட்டது
+
+NN-080
+Label
+Available
+තිබේ
+கிடைக்கின்றது
+
+NN-081
+Button
+Assign a job
+කාර්ය පවරන්න
+ஒரு பணியை ஒதுக்குங்கள்
+
+NN-082
+Button
+Send message
+පණිවිඩය යවන්න
+செய்தி அனுப்பவும்
+
+NN-083
+Label
+Availability
+ලබා ගැනීමේ හැකියාව
+கிடைக்கும் தன்மை
+
+NN-084
+Label
+Job Type
+රැකියා වර්ගය
+பணி வகை
+
+NN-085
+Label
+Skill categories
+කුසලතා කාණ්ඩ
+திறன் வகைகள்
+
+NN-086
+Label
+Preferred Location
+කැමති ස්ථානය
+விருப்பமான இடம்
+
+NN-087
+Label
+Enter the job title
+රැකියා මාතෘකාව ඇතුළත් කරන්න
+பணியின் தலைப்பை உள்ளிடவும்
+
+NN-088
+Label
+Enter the location
+ස්ථානය ඇතුළු කරන්න
+இடத்தை உள்ளிடவும்
+
+NN-089
+Label
+Description
+විස්තරය
+விளக்கம்
+
+NN-090
+Label
+Select a location
+ස්ථානයක් තෝරන්න
+ஒரு இடத்தைத் தேர்ந்தெடுக்கவும்
+
+NN-091
+Button
+Assign
+පැවරීම
+ஒதுக்கவும்
+
+NN-092
+Button
+BOQ Calculators BOQ
+ගණනය කිරීම
+அளவைப்பட்டியல் கணிப்பான் பொறிகள்
+
+NN-093
+Button
+Concrete Cracking Probability Calculator
+කොන්ක්‍රීට් ඉරිතැලීම් සම්භාවිතා ගණනය කිරීම
+கொங்கிரீட் விரிசல் அடையும் நிகழ்தகவுக்கான கணிப்பான் பொறி
+
+NN-094
+Label
+Calculate the BOQs for concrete, plaster, flooring, paint and brickwork. To make an estimate, choose one or more calculators, with the option to save, share, and download BOQs.
+කොන්ක්‍රීට්, ප්ලාස්ටර්, බිම් ඇතුරුම්, තීන්ත සහ ගඩොල් වැඩ සඳහා BOQ ගණනය කරන්න. ඇස්තමේන්තුවක් කිරීමට, BOQ සුරැකීමට, බෙදා ගැනීමට සහ බාගැනීමට ඇති විකල්පය සමඟින් ගණක යන්ත්‍ර එකක් හෝ කිහිපයක් තෝරන්න.
+கொங்கிரீட், பிளாஸ்டர், தரையமைப்பு, தீந்தை மற்றும் செங்கல் வேலைக்கான அளவைப் பட்டியலை கணிப்பிடுங்கள். மதிப்பீட்டைச் செய்ய, ஒன்று அல்லது அதற்கு மேற்பட்ட கணிப்பான் பொறிகளைத் தெரிவுசெய்து, அளவைப் பட்டியல்களைச் சேமிக்கவும், பகிரவும் மற்றும் பதிவிறக்கவும்.
+
+NN-095
+Label
+Calculate whether conditions are favourable for concrete placement. Pick between the default and advanced options to calculate the probability of concrete cracking before its placement.
+කොන්ක්‍රීට් තැබීම සඳහා කොන්දේසි හිතකරදැයි ගණනය කරන්න. එය තැබීමට පෙර කොන්ක්‍රීට් ඉරිතැලීමේ සම්භාවිතාව ගණනය කිරීම සඳහා පෙරනිමි සහ උසස් විකල්ප අතර තෝරන්න.
+கொங்கிரீட் இடுவதற்கு சாதகமான நிலைமைகள் உள்ளதா என்பதைக் கணக்கிடுங்கள். அதனை இடுவதற்கு முன்னர், கொங்கிரீட் விரிசல் நிகழ்தகவைக் கணிப்பிடுவ தற்கு, முன்னிருப்பு மற்றும் மேம்பட்ட தெரிவுகளுக்கு இடையே தெரிவு செய்யவும்.
+
+NN-096
+Other
+Search BOQ...
+සෙවුම් BOQ...
+அளவைப் பட்டியலைக் கண்டறியவும்...
+
+NN-097
+Label
+BOQ Name BOQ
+නම
+அளவைப் பட்டியலின் பெயர்
+
+NN-098
+Label
+Created Date
+නිර්මාණය කළ දිනය
+உருவாக்கப்பட்ட திகதி
+
+NN-099
+Label
+Share
+බෙදාගැනීම
+பகிரவும்
+
+NN-100
+Label
+Actions
+ක්‍රියා
+நடவடிக்கைகள்
+
+NN-101
+Label
+Rows per page
+පේළි පිටුවකට
+ஒரு பக்கத்திற்கான வரிசைகள்
+
+NN-102
+Button
+Create estimate
+ඇස්තමේන්තුව සාදන්න
+மதிப்பீட்டை உருவாக்கவும்
+
+NN-103
+Label
+Select estimate items
+අයිතම තෝරන්න
+மதிப்பிடப்பட்ட உருப்படிகளைத் தேர்ந்தெடுக்கவும்
+
+NN-104
+Button
+Calculate
+ගණනය කරන්න
+கணிப்பிடவும்
+
+NN-105
+Label
+Width
+පළල
+அகலம்
+
+NN-106
+Label
+Length
+දිග
+நீளம்
+
+NN-107
+Label
+Depth
+ගැඹුර
+ஆழம்
+
+NN-108
+Label
+Unit
+ඒකකය
+அலகு
+
+NN-109
+Label
+Grade of concrete
+කොන්ක්‍රීට් ශ්‍රේණිය
+கொங்கிரீட்டின் தரம்
+
+NN-110
+Label
+Height
+උස
+உயரம்
+
+NN-111
+Label
+Plaster Type
+ප්ලාස්ටර් වර්ගය
+பிளாஸ்டர் வகை
+
+NN-112
+Label
+Type
+වර්ගය
+வகை
+
+NN-113
+Message
+Estimation name is empty
+ඇස්තමේන්තු නම හිස්ය
+மதிப்பீட்டின் பெயர் வெறுமையாக உள்ளது
+
+NN-114
+Message
+<field name> measurement is required
+<ක්ෂේත්‍ර නාමය> මැනීම අවශ්‍ය වේ
+<புலத்தின் பெயர்> அளவீடு தேவை
+
+NN-115
+Message
+<field name> value is required
+<field name> අගය අවශ්‍යයි
+<புலத்தின் பெயர்> பெறுமதி தேவைப்படுகின்றது
+
+NN-116
+Message
+Plaster/Flooring unit type is required
+ප්ලාස්ටර් / බිම් ඒකක වර්ගය අවශ්‍ය වේ
+பிளாஸ்டர்/தரை அலகு வகை தேவைப்படுகின்றது
+
+NN-117
+Message
+Type of brick/plaster is required
+වර්ගය ගඩොල්/ප්ලාස්ටර් අවශ්‍ය වේ
+செங்கல் / பிளாஸ்டர் வகை தேவைப்படுகின்றது
+
+NN-118
+Label
+Materials ද්
+‍රව්‍ය
+பொருட்கள்
+
+NN-119
+Label
+Quantity
+ප්‍රමාණය
+அளவு
+
+NN-120
+Label
+Total Area of <BOQ Type>
+<BOQ වර්ගය> මුළු ප්‍රදේශය
+<அளவைப் பட்டியல் வகை> மொத்த பரப்பளவு
+
+NN-121
+Label
+<BOQ Type> BOQ
+<BOQ වර්ගය> BOQ
+<அளவைப் பட்டியல் வகை> அளவைப் பட்டியல்
+
+NN-122
+Button
+Save BOQ
+සුරැකීම BOQ
+அளவைப் பட்டியலை சேமிக்கவும்
+
+NN-123
+Button
+Share BOQ via email
+ඊමේල් හරහා බෙදා ගන්න
+BOQ மின்னஞ்சல் மூலம் அளவைப் பட்டியலைப் பகிரவும்
+
+NN-124
+Message
+Estimate saved
+ඇස්තමේන්තුව සුරකින ලදී
+மதிப்பீடு சேமிக்கப்பட்டது
+
+NN-125
+Label
+Concrete Cracking Probability Calculation
+කොන්ක්‍රීට් ඉරිතැලීමේ සම්භාවිතාව ගණනය කිරීම
+கொங்கிரீட் விரிசலுக்கான நிகழ்தகவு கணிப்பீடு
+
+NN-126
+Other
+Default option
+පෙරනිමි විකල්පය
+முன்னிருப்பு தெரிவு
+
+NN-127
+Other
+Advanced option
+වෙනත් උසස් විකල්පය
+மேம்பட்ட தெரிவு
+
+NN-128
+Label
+This default option of calculating the concrete cracking probability has relatively low accuracy
+කොන්ක්‍රීට් ඉරිතැලීමේ සම්භාවිතාව ගණනය කිරීමේ මෙම පෙරනිමි විකල්පය සාපේක්ෂව අඩු නිරවද්‍යතාවයක් ඇත.
+கொங்கிரீட் விரிசலுக்கான நிகழ்தகவைக் கணிப்பிடுவதற்கான இந்த முன்னிருப்பு தெரிவு ஒப்பீட்டளவில் குறைந்த துல்லியத்தைக் கொண்டுள்ளது
+
+NN-129
+Label
+Concrete temperature
+කොන්ක්‍රීට් උෂ්ණත්වය
+கொங்கிரீட் வெப்பநிலை
+
+NN-130
+Message
+Fill the empty fields before continuing
+ඉදිරියට පෙර හිස් ක්ෂේත්‍ර පුරවන්න
+தொடர்வதற்கு முன் வெறுமையான புலங்களை நிரப்பவும்
+
+NN-131
+Label
+Ambient temperature
+පරිසර උෂ්ණත්වය
+சுற்றுப்புற வெப்பநிலை
+
+NN-132
+Label
+Relative humidity
+සාපේක්ෂ ආර්ද්රතාවය
+ஒப்பீட்டு ஈரப்பதம்
+
+NN-133
+Label
+Wind velocity
+සුළං වේගය
+காற்றின் வேகம்
+
+NN-134
+Label
+For higher accuracy, · An average wind speed(not the maximum gust speed) should be used, and it should be measured at an elevation of about 0.5 m above the concrete surface. · The relative humidity and air temperature should be measured in the shade, upwind of the placement, and 1.2 to 1.8 m above the concrete surface.
+වැඩි නිරවද්‍යතාවයක් සඳහා, · සාමාන්‍ය සුළං වේගයක් (උපරිම සුළං වේගය නොවේ) භාවිතා කළ යුතු අතර, එය කොන්ක්‍රීට් මතුපිටට වඩා මීටර් 0.5ක් පමණ උන්නතාංශයක දී මැනිය යුතුය. · සාපේක්ෂ ආර්ද්රතාවය සහ වාතයේ උෂ්ණත්වය සෙවණෙහි, ස්ථානගත කිරීමේ ඉහළ සුළං සහ කොන්ක්‍රීට් මතුපිටට වඩා මීටර් 1.2 සිට 1.8 දක්වා මැනිය යුතුය.
+அதிக துல்லியத்திற்காக, சராசரி காற்றின் வேகம் (அதிகபட்ச வன்காற்று வேகம் அல்ல) பயன்படுத்தப்பட வேண்டும், மேலும் அது கொங்கிரீட் மேற்பரப்பில் இருந்து சுமார் 0.5 மீ உயரத்தில் அளவிடப்பட வேண்டும். தொடர்பான ஈரப்பதம் மற்றும் காற்றின் வெப்பநிலையை நிழலிலும், மேல்காற்றிலும், கொங்கிரீட் மேற்பரப்பிலிருந்து 1.2 முதல் 1.8 மீ வரையிலும் அளவிட வேண்டும்.
+
+NN-135
+Label
+Concrete cracking probability
+ලේබලය කොන්ක්‍රීට් கொங்கிரீட் விரிசலுக்கான நிகழ்தகவு
+ඉරිතැලීමේ සම්භාවිතාව
+
+NN-136
+Message
+The Evaporation Rate Index is out of scope. Try using valid probability values.
+පණිවිඩය වාෂ්පීකරණ අනුපාත දර්ශකය විෂය පථයෙන් බැහැර ය. වලංගු සම්භාවිතා අගයන් භාවිතා කිරීමට උත්සාහ කරන්න.
+ஆவியாதல் வீதக் குறியீடு வரம்பிற்கு அப்பாற்பட்டது. சரியான நிகழ்தகவு பெறுமானங்களைப் பயன்படுத்த முயற்சிக்கவும்.
+
+NN-137
+Message
+The above conditions are very favourable for concrete placement.
+ඉහත කොන්දේසි කොන්ක්‍රීට් තැබීම සඳහා ඉතා හිතකර වේ.
+மேலே உள்ள நிபந்தனைகள் கொங்கிரீட் இடுவதற்கு மிகவும் சாதகமானவை.
+
+NN-138
+Message
+The above conditions are moderately favourable for concrete placement.
+කොන්දේසි කොන්ක්‍රීට් තැබීම සඳහා මධ්‍යස්ථව හිතකර වේ
+மேலே உள்ள நிலைமைகள் கொங்கிரீட் இடுவதற்கு மிதமான அளவில் சாதகமானவை.
+
+NN-139
+Message
+The above conditions are not favourable for concrete placement.
+ඉහත කොන්දේසි කොන්ක්‍රීට් තැබීම සඳහා හිතකර නොවේ
+மேலே உள்ள நிபந்தனைகள் கொங்கிரீட் இடுவதற்கு சாதகமாக இல்லை.
+
+NN-141
+Button
+See more
+තව බලන්න
+கூடுதலாக பார்க்கவும்
+
+NN-142
+Button
+See less
+අඩු බලන්න
+குறைவாக பார்க்கவும்
+
+NN-143
+Label
+Factor
+සාධකය
+காரணி
+
+NN-144
+Label
+Value
+අගය
+மதிப்பு
+
+NN-145
+Label
+Evaporation Rate Index
+වාෂ්පීකරණ අනුපාත දර්ශකය
+ஆவியாதல் வீதக் குறியீடு
+
+NN-146
+Label
+How can we help you?
+අපි ඔබට උදව් කරන්නේ කෙසේද?
+உங்களுக்கு எவ்வாறு உதவலாம்?
+
+NN-147
+Label
+Videos
+වීඩියෝ
+வீடியோக்கள்
+
+NN-148
+Label
+Articles
+ලිපි
+கட்டுரைகள்
+
+NN-149
+Label
+My job list
+මගේ කාර්යය ලැයිස්තුව
+எனது பணிப் பட்டியல்
+
+NN-150
+Label
+Public
+පොදු
+பொது
+
+NN-151
+Label
+Private
+පුද්ගලික
+தனியார்
+
+NN-152
+Label
+In Progress
+සිදු වෙමින් පවතී
+செயல்பாட்டில் உள்ளது
+
+NN-153
+Label
+Completed
+සම්පූර්ණ කරන ලදී
+பூர்த்தி செய்யப்பட்டுள்ளது
+
+NN-154
+Label
+Rejected
+ප්‍රතික්ෂේප කරන ලදී
+நிராகரிக்கப்பட்டது
+
+NN-155
+Label
+Canceled
+අවලංගු කරන ලදී
+இரத்து செய்யப்பட்டது
+
+NN-156
+Label
+Open
+විවෘතයි
+திறக்கவும்
+
+NN-157
+Label
+Applied
+යොදන ලදී
+விண்ணப்பிக்கப்பட்டது
+
+NN-158
+Label
+My Job
+මගේ කාර්යය
+என் பணி
+
+NN-159
+Button
+Remove Job
+කාර්යය ඉවත් කරන්න
+பணியை அகற்றவும்
+
+NN-160
+Button
+Confirm
+තහවුරු කරන්න
+உறுதிப்படுத்தவும்
+
+NN-161
+Button
+Cancel
+අවලංගු කරන්න
+இரத்து செய்யவும்
+
+NN-162
+Label
+Are you sure you want to delete this job?
+මෙම කාර්යය මැකීමට අවශ්‍ය බව විශ්වාසද?
+இந்த பணியை நிச்சயமாக நீக்க விரும்புகிறீர்களா?
+
+NN-163
+Label
+<Builder name> has applied for the job
+<ඉදි කරන්නාගේ නම> රැකියාව සඳහා ඉල්ලුම් කර ඇත
+<நிர்மாணிப்பாளர் பெயர்> பணிக்கு விண்ணப்பித்துள்ளார்
+
+NN-164
+Button
+Accept
+පිළිගන්න
+ஏற்றுக்கொள்யவும்
+
+NN-165
+Button
+Deny
+ප්‍රතික්ෂේප කරන්න
+மறுக்கவும்
+
+NN-166
+Button
+View Profile
+ගිණුම නැරඹීම
+சுயவிவரத்தை கண்டறியவும்
+
+NN-167
+Button
+Job Done
+කාර්යය නිමයි
+பணி முடிந்தது
+
+NN-168
+Label
+Confirm the Decision
+තීරණය තහවුරු කරන්න
+முடிவை உறுதிப்படுத்தவும்
+
+NN-169
+Button
+Yes
+ඔව්
+ஆம்
+
+NN-170
+Button
+No
+නැත
+இல்லை
+
+NN-171
+Label
+How was the quality of the work?
+ගුණාත්මකභාවය කෙසේද?
+பணியின் தரம் எப்படி இருந்தது?
+
+NN-172
+Button
+Maybe Later
+සමහර විට පසුව
+ஒருவேளை பின்னர்
+
+NN-173
+Label
+Thank you
+ස්තුතියි
+நன்றி
+
+NN-174
+Message
+Your Feedback was Successfully Submitted
+ඔබගේ ප්‍රතිපෝෂණය සාර්ථකව ඉදිරිපත් කරන ලදී
+உங்கள் கருத்து வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது
+
+NN-175
+Other
+Search...
+සෙවීම්...
+தேடவும்...
+
+NN-176
+Button
+Add new complaint
+නව පැමිණිල්ලක් එක් කරන්න
+புதிய முறைப்பாட்டைச் சேர்க்கவும்
+
+NN-177
+Label
+Complaint history
+පැමිණිලි ඉතිහාසය
+முறைப்பாடுகளின் வரலாறு
+
+NN-178
+Label
+Complaint ID
+පැමිණිලි අංකය
+முறைப்பாட்டு அடையாள இலக்கம்
+
+NN-179
+Label
+Complaint type
+පැමිණිලි වර්ගය
+முறைப்பாட்டின் வகை
+
+NN-180
+Label
+Status
+තත්ත්වය
+நிலை
+
+NN-181
+Label
+Date
+දිනය
+திகதி
+
+NN-182
+Label
+No content found
+අන්තර්ගතයක් හමු නොවීය
+உள்ளடக்கம் இல்லை
+
+NN-183
+Label
+Select type of support
+ආධාරක වර්ගය තෝරන්න
+ஆதரவு வகையைத் தேர்ந்தெடுக்கவும்
+
+NN-184
+Label
+Select a type
+වර්ගයක් තෝරන්න
+ஒரு வகையைத் தேர்ந்தெடுக்கவும்
+
+NN-185
+Label
+Product Category
+නිෂ්පාදන කාණ්ඩය
+தயாரிப்பு வகை
+
+NN-186
+Label
+Select a category
+කාණ්ඩය තෝරන්න
+ஓர் வகையறா வை தேர்ந்தெடுக்கவும்
+
+NN-187
+Label
+Product
+නිෂ්පාදනය
+தயாரிப்பு
+
+NN-188
+Label
+Select a product
+නිෂ්පාදනයක් තෝරන්න
+ஒரு தயாரிப்பைத் தேர்ந்தெடுக்கவும்
+
+NN-189
+Button
+Continue
+දිගටම සිදු කරගෙන යන්න
+தொடரவும்
+
+NN-190
+Label
+Name
+නම
+பெயர்
+
+NN-191
+Label
+Business Name (optional)
+ව්‍යාපාර නාමය (විකල්ප)
+வணிகப் பெயர் (விரும்பினால்)
+
+NN-192
+Label
+Upload images
+පින්තූර උඩුගත කරන්න
+படங்களை பதிவேற்றவும்
+
+NN-193
+Button
+Submit
+යොමු කරන්න
+சமர்ப்பிக்கவும்
+
+NN-194
+Message
+Complaint submitted
+පැමිණිල්ල යොමු කරන්න ලදී
+முறைப்பாடு அளிக்கப்பட்டது
+
+NN-195
+Label
+Personal Information
+පුද්ගලික තොරතුරු
+தனிப்பட்ட தகவல்
+
+NN-196
+Label
+Referral Link
+යොමු කිරීමේ සබැඳිය
+பரிந்துரை இணைப்பு
+
+NN-197
+Label
+Refer INSEE Nawa Niwasa to your family and friends and win exclusive discounts!
+ඔබේ පවුලේ අයට සහ මිතුරන්ට INSEE Nawa Niwasa යොමු කර සුවිශේෂී වට්ටම් දිනා ගන්න!
+உங்கள் குடும்பத்தினர் மற்றும் நண்பர்களுக்கு INSEE நவ நிவசவை தெரியப்படுத்தி பிரத்தியேக தள்ளுபடிகளை வெல்லவும்!
+
+NN-198
+Label
+Search Products
+නිෂ්පාදන සෙවීම
+தயாரிப்புகளைத் தேடுங்கள்
+
+NN-199
+Label
+Shop our Top Categories
+අපගේ හොඳම භාණ්ඩ මිලදී ගන්න
+எங்கள் சிறந்த வகைகளை வாங்கவும்
+
+NN-200
+Label
+Recently Viewed
+මෑතකදී නරඹන ලදී
+சமீபத்தில் பார்த்தது
+
+NN-201
+Button
+Add to Cart
+ඇණවුම් මට එක් කරන්න
+கூடையில் சேர்க்கவும்
+
+NN-202
+Label
+Most Selling Products
+වැඩියෙන්ම අලෙවි වන නිෂ්පාදන
+அதிகம் விற்பனையாகும் பொருட்கள்
+
+NN-203
+Label
+No products in this category
+මෙම කාණ්ඩයේ නිෂ්පාදන නොමැත
+இந்த வகையில் தயாரிப்புகள் இல்லை
+
+NN-204
+Label
+Rs
+රු
+ரூபா
+
+NN-205
+Label
+Qty
+ප්‍රමාණය
+அளவு
+
+NN-206
+Button
+Buy Now
+දැන් මිලදී ගන්න
+இப்போது வாங்கவும்
+
+NN-208
+Label
+Description
+විස්තරය
+விளக்கம்
+
+NN-209
+Label
+Fact File
+කරුණු ගොනුව
+தகவல் விபர கோப்பு
+
+NN-210
+Label
+Properties
+ගුණාංග
+பண்புகள்
+
+NN-211
+Label
+Compatibility
+අනුකූලතාව
+இணக்கத்தன்மை
+
+NN-212
+Label
+Applications
+යෙදුම්
+விண்ணப்பங்கள்
+
+NN-213
+Button
+Product Added
+නිෂ්පාදනය එකතු කරන ලදී
+தயாரிப்பு சேர்க்கப்பட்டது
+
+NN-214
+Label
+Total Amount
+මුළු මුදල
+மொத்த தொகை
+
+NN-215
+Button
+Proceed to Checkout
+පිටවීම වෙත ඉදිරියට යන්න
+வெளியேறவும்
+
+NN-216
+Label
+Shopping Cart
+සාප්පු කරත්තය
+கொள்வனவு கூடை
+
+NN-217
+Label
+Remove from Cart
+කරත්තයෙන් ඉවත් කරන්න
+கூடையில் இருந்து அகற்றவும்
+
+NN-218
+Label
+Product will be taken off the order
+නිෂ්පාදනය ඇණවුමෙන් ඉවත් කරනු ලැබේ
+தயாரிப்பு கோரலில் இருந்து அகற்றப்படும்
+
+NN-219
+Button
+Remove
+ඉවත් කරන්න
+அகற்றவும்
+
+NN-220
+Label
+Checkout
+පිටවීම
+சரிபார்க்கவும்
+
+NN-221
+Label
+Product Name
+නිෂ්පාදන නම
+பொருளின் பெயர்
+
+NN-222
+Label
+Price
+මිල
+விலை
+
+NN-223
+Label
+Total
+එකතුව
+மொத்தம்
+
+NN-224
+Label
+Order Summary
+ඇණවුම් සාරාංශය
+கோரலின் சுருக்கம்
+
+NN-225
+Label
+Items Total
+අයිතම එකතුව
+பொருட்கள் மொத்தம்
+
+NN-226
+Label
+Handling Charges
+හැසිරවීමේ ගාස්තු
+கையாளும் கட்டணங்கள்
+
+NN-227
+Label
+Delivery Charges
+බෙදා හැරීමේ ගාස්තු
+விநியோக கட்டணம்
+
+NN-228
+Label
+Promotions
+ප්‍රවර්ධන
+ஊக்குவிப்பு சலுகைகள்
+
+NN-229
+Label
+Total Payment
+මුළු ගෙවීම
+மொத்த கட்டணம்
+
+NN-230
+Button
+Place Order
+ස්ථාන ඇණවුම
+கோரலை முன் வைக்கவும்
+
+NN-231
+Message
+You are entitled to free shipping!
+ඔබට නොමිලේ නැව්ගත කිරීමට හිමිකම් ඇත!
+இலவச விநியோகத்திற்கு உங்களுக்கு உரிமை உண்டு!
+
+NN-232
+Label
+Flash Sale
+ෆ්ලෑෂ් අලෙවිය
+ஃபிளாஷ் விற்பனை
+
+NN-233
+Label
+Offers and Promotions
+පිරිනැමීම් සහ ප්‍රවර්ධන
+சலுகைகள் மற்றும் விளம்பரங்கள்
+
+NN-234
+Button
+Apply
+යොදන්න
+விண்ணப்பிக்கவும்
+
+NN-235
+Label
+Enter Promo Code
+ප්‍රවර්ධන කේතය ඇතුලත් කරන්න
+விளம்பரக் குறியீட்டை உள்ளிடவும்
+

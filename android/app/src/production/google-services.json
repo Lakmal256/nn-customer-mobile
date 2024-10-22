@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1039771660722",
+    "project_id": "nawaniwasa",
+    "storage_bucket": "nawaniwasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039771660722:android:b57a8de341b2f65fba74ab",
+        "android_client_info": {
+          "package_name": "com.insee.NNBuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0XH6oa7uHNe7lEvse324A29Biers9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039771660722-jvf3t6a60jdmq9trgroi300fmo2ac926.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039771660722:android:81169c5548284845ba74ab",
+        "android_client_info": {
+          "package_name": "com.insee.NNCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0XH6oa7uHNe7lEvse324A29Biers9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039771660722-jvf3t6a60jdmq9trgroi300fmo2ac926.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039771660722:android:f6f2a4e1d1b0dd2dba74ab",
+        "android_client_info": {
+          "package_name": "com.insee.NNHardwareOwner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0XH6oa7uHNe7lEvse324A29Biers9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039771660722-imloi8ha420aa5flgutdhb4sdeoi2o94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039771660722-jvf3t6a60jdmq9trgroi300fmo2ac926.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insee.NNCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
